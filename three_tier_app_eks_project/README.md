@@ -1,5 +1,7 @@
 # three-tier-eks-iac
 
+![Alt text](https://drive.google.com/uc?export=view&id=14qLb0NK1sjn16MWGYRxxG9nfTO8jZn1r)
+
 # Prerequisite 
 
 **Install Kubectl**
@@ -15,8 +17,6 @@ helm repo update
 
 **Install/update latest AWS CLI:** (make sure install v2 only)
 https://aws.amazon.com/cli/
-
-![Alt text](https://drive.google.com/uc?export=view&id=14qLb0NK1sjn16MWGYRxxG9nfTO8jZn1r)
 
 
 #update the Kubernetes context
